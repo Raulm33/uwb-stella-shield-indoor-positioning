@@ -16,4 +16,12 @@ keywords:
   - Arduino Portenta C33
 license: MIT
 repository-code: "https://github.com/Raulm33/uwb-stella-shield-indoor-positioning"
+doi: "10.5281/zenodo.24444260"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24444260"
+    description: "All versions (concept DOI)"
+  - type: doi
+    value: "10.5281/zenodo.24444261"
+    description: "Version v1.0.0"
 url: "https://github.com/Raulm33/uwb-stella-shield-indoor-positioning"
