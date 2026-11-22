@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Same background as the iOS app: Color(red: 0.043, green: 0.059, blue: 0.078) -->
+    <color name="app_background">#FF0B0F14</color>
+</resources>

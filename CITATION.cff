@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+type: software
+title: "UWB Stella-Shield indoor positioning: firmware and iOS/Android guidance apps"
+authors:
+  - family-names: Muntean
+    given-names: Raul-Adrian
+    affiliation: "Politehnica University Timișoara"
+keywords:
+  - ultra-wideband
+  - UWB
+  - DS-TWR
+  - Bluetooth Low Energy
+  - indoor positioning
+  - Arduino Stella
+  - Arduino Portenta C33
+license: MIT
+repository-code: "https://github.com/Raulm33/uwb-stella-shield-indoor-positioning"
+url: "https://github.com/Raulm33/uwb-stella-shield-indoor-positioning"

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Framework dark theme; the UI itself is drawn with Jetpack Compose. -->
+    <style name="Theme.UWBFinder" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+</resources>
